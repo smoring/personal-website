@@ -1,0 +1,56 @@
+img {
+    max-height: 15em;
+}
+
+h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+}
+
+body {
+    font-family: 'Noto Serif', serif;
+}
+
+.header {
+    display: block;
+    text-align: center;
+    padding-top: 5em;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+.icon {
+    max-height: 5em;
+}
+
+.two-columns {
+    padding-left: 5em;
+    padding-right: 5em;
+    padding-top: 2em;
+    height: 42em;
+}
+
+.half-width {
+    width: 50%;
+    height: 40em;
+}
+
+.white {
+    float: left;
+    background: url("./monstera.jpeg");s
+}
+.pink {
+    background-color: #ffdae0;
+    float: right;
+}
+
+.social {
+    padding: 3em;
+    vertical-align: middle;
+}
+
+.section {
+    padding: 5em;
+}
